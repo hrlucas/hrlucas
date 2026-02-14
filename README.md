@@ -27,8 +27,6 @@ Por isso, tenho poucos repositórios open source disponíveis — porém, os pro
 
 ## 💻 Tecnologias e Ferramentas
 
-Tenho experiência prática e estou sempre aprimorando minhas habilidades nas seguintes tecnologias:
-
 <div align="center">
   <img align="center" src="https://i.imgur.com/g6Wg8Ey.png" alt="java" width="40" height="40" style="margin-right: 10px; margin-left: 10px;"/>
   <img align="center" src="https://i.imgur.com/eKV8V75.png" alt="python" width="40" height="40" style="margin-right: 10px; margin-left: 10px;"/>
@@ -53,29 +51,27 @@ Tenho experiência prática e estou sempre aprimorando minhas habilidades nas se
 
 ## 🌟 Projetos em Destaque
 
-Confira alguns dos meus projetos públicos mais relevantes. Estou sempre evoluindo e criando novas soluções!
+<p align="center">
+  <a href="https://github.com/hrlucas/hr-whatsapp-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hrlucas&repo=hr-whatsapp-api&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="hr-whatsapp-api Card" />
+  </a>
+</p>
 
-<a href="https://github.com/hrlucas/hr-intelbras-webhook" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hrlucas&repo=hr-intelbras-webhook&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="hr-intelbras-webhook Card" style="margin-top: 10px; margin-bottom: 10px;"/>
-</a>
+<p align="center">
+  <a href="https://github.com/hrlucas/hr-youtube-transcriber">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hrlucas&repo=hr-youtube-transcriber&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="hr-youtube-transcriber Card" />
+  </a>
+</p>
 
-<a href="https://github.com/hrlucas/Gral_LPR_Guarita" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hrlucas&repo=Gral_LPR_Guarita&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Gral_LPR_Guarita Card" style="margin-top: 10px; margin-bottom: 10px;"/>
-</a>
-
-<a href="https://github.com/hrlucas" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hrlucas&repo=Horta-4.0&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Horta-4.0 Card" style="margin-top: 10px; margin-bottom: 10px;"/>
-</a>
-
-<a href="https://github.com/hrlucas" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hrlucas&repo=Barbearia-do-Luquinhas&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Barbearia-do-Luquinhas Card" style="margin-top: 10px; margin-bottom: 10px;"/>
-</a>
+<p align="center">
+  <a href="https://github.com/hrlucas/hr-intelbras-lpr-webhook">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hrlucas&repo=hr-intelbras-lpr-webhook&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="hr-intelbras-lpr-webhook Card" />
+  </a>
+</p>
 
 ---
 
 ## 🤝 Conecte-se Comigo
-
-Estou sempre aberto a novas conexões, projetos e oportunidades de aprendizado.
 
 <p align="center">
   <a href="mailto:hrlucas.dev@gmail.com" target="_blank">
