@@ -1,6 +1,6 @@
 <h1 align="center"> Olá, eu sou o Lucas! 👋 </h1>
 
-<h3 align="center"> Desenvolvedor Júnior | Apaixonado por Sistemas, Automação e Tecnologia </h3>
+<h3 align="center"> Desenvolvedor Junior Full Stack | Front-end & Back-end | JavaScript, TypeScript, Node.js, React, TailwindCSS | SQL, APIs | Java, Python </h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hrlucas" alt="Profile views">
@@ -10,16 +10,18 @@
 
 ## 🚀 Sobre Mim
 
-Sou estudante do Ensino Médio e desenvolvedor júnior em formação, apaixonado por criar soluções que unem **automação, sistemas e desenvolvimento web**. Tenho focado meus estudos em projetos práticos, explorando desde interfaces modernas até integrações com APIs, automações e sistemas inteligentes.
+Sou estudante técnico em **Desenvolvimento de Sistemas**, com experiência em projetos voltados à **automação**, **tecnologia aplicada** e **desenvolvimento de software**. Atuo no desenvolvimento de soluções que envolvem lógica de programação, sistemas interativos, monitoramento digital e interfaces web, sempre com foco em **funcionalidade**, **organização** e **escalabilidade**.
 
-Atualmente desenvolvo projetos pessoais e escolares voltados para tecnologia, sempre buscando evoluir tecnicamente e aplicar boas práticas de desenvolvimento.
+Atualmente, curso **Desenvolvimento de Sistemas pelo SENAC** e atuo como **Jovem Aprendiz na área de TI**, onde tenho contato com rotinas técnicas, suporte e ambientes corporativos, ampliando minha visão profissional e prática da área de tecnologia e logística.
 
-Minhas principais áreas de interesse incluem:
+Sou apaixonado por tecnologia, inovação e desenvolvimento de soluções. Gosto de aprender novas ferramentas, explorar diferentes stacks e evoluir constantemente como desenvolvedor. Tenho interesse em áreas como desenvolvimento web (front-end e back-end), automação, design e empreendedorismo, buscando sempre transformar ideias em produtos bem construídos, funcionais e escaláveis.
 
-*   **Automação e Integrações**
-*   **Desenvolvimento Web (Frontend / Backend)**
-*   **Sistemas e IoT**
-*   **APIs e Dados**
+---
+
+## 📁 Repositórios Open Source
+
+Grande parte dos meus projetos não fica pública, pois envolvem estudos, experimentos privados ou soluções internas corporativas.  
+Por isso, tenho poucos repositórios open source disponíveis — porém, os projetos que estão públicos representam bem meu padrão de organização, capacidade técnica e forma de desenvolver soluções reais.
 
 ---
 
@@ -51,7 +53,7 @@ Tenho experiência prática e estou sempre aprimorando minhas habilidades nas se
 
 ## 🌟 Projetos em Destaque
 
-Confira alguns dos meus projetos mais recentes e relevantes. Estou sempre desenvolvendo novas ideias e evoluindo meus sistemas!
+Confira alguns dos meus projetos públicos mais relevantes. Estou sempre evoluindo e criando novas soluções!
 
 <a href="https://github.com/hrlucas/hr-intelbras-webhook" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=hrlucas&repo=hr-intelbras-webhook&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="hr-intelbras-webhook Card" style="margin-top: 10px; margin-bottom: 10px;"/>
