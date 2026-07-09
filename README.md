@@ -34,18 +34,11 @@ Gosto de desenvolver soluções que saem do papel e resolvem problemas reais, se
 
 ## 📊 Estatísticas
 
-<table align="center">
-  <tr>
-    <td width="50%">
-      <a href="https://git.io/streak-stats">
-        <img width="100%" src="https://streak-stats.demolab.com?user=hrlucas&theme=github-dark-blue&locale=pt_BR&hide_border=false" alt="GitHub Streak" />
-      </a>
-    </td>
-    <td width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrlucas&layout=compact&theme=github_dark_blue&hide_border=false&langs_count=6" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img width="100%" src="https://streak-stats.demolab.com?user=hrlucas&theme=github-dark-blue&locale=pt_BR&hide_border=false&card_height=280" alt="GitHub Streak" />
+  </a>
+</p>
 
 <p align="center">
   <picture data-importer="pacman">
