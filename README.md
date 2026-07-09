@@ -4,8 +4,6 @@
   JavaScript • TypeScript • Python • Java • SQL
 </p>
 
-## 🤝 Conecte-se comigo
-
 <p align="center">
   <a href="mailto:hrlucas.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-hrlucas.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
@@ -36,12 +34,18 @@ Gosto de desenvolver soluções que saem do papel e resolvem problemas reais, se
 
 ## 📊 Estatísticas
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=hrlucas&theme=github-dark-blue&locale=pt_BR&hide_border=false&card_height=220" alt="GitHub Streak" height="220" />
-  </a>
-    <img src="https://raw.githubusercontent.com/hrlucas/hrlucas/languages-output/languages.svg" height="150" alt="Top languages" />
-</p>
+<table align="center">
+  <tr>
+    <td width="50%">
+      <a href="https://git.io/streak-stats">
+        <img width="100%" src="https://streak-stats.demolab.com?user=hrlucas&theme=github-dark-blue&locale=pt_BR&hide_border=false" alt="GitHub Streak" />
+      </a>
+    </td>
+    <td width="50%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrlucas&layout=compact&theme=github_dark_blue&hide_border=false&langs_count=6" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <picture data-importer="pacman">
