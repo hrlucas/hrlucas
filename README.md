@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  <a href="mailto:hrlucas.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hrlucas.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="mailto:mrhochmann.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mrhochmann.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/lucas-hochmann-rosa">
     <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Hochmann%20Rosa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/hrlucas">
-    <img src="https://img.shields.io/badge/GitHub-hrlucas-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <a href="https://github.com/mrhochmann">
+    <img src="https://img.shields.io/badge/GitHub-mrhochmann-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
@@ -36,14 +36,14 @@ Gosto de desenvolver soluções que saem do papel e resolvem problemas reais, se
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=hrlucas&theme=github-dark-blue&locale=pt_BR&hide_border=false&card_height=220&card_width=700" alt="GitHub Streak" width="700" height="220" />
+    <img src="https://streak-stats.demolab.com?user=mrhochmann&theme=github-dark-blue&locale=pt_BR&hide_border=false&card_height=220&card_width=700" alt="GitHub Streak" width="700" height="220" />
   </a>
 </p>
 
 <p align="center">
   <picture data-importer="pacman">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hrlucas/hrlucas/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hrlucas/hrlucas/pacman-output/pacman-contribution-graph.svg?game=pacman">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hrlucas/hrlucas/pacman-output/pacman-contribution-graph.svg?game=pacman">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrhochmann/mrhochmann/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrhochmann/mrhochmann/pacman-output/pacman-contribution-graph.svg?game=pacman">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mrhochmann/mrhochmann/pacman-output/pacman-contribution-graph.svg?game=pacman">
   </picture>
 </p>
